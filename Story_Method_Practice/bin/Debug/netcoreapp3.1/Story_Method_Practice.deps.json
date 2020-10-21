@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Story_Method_Practice/1.0.0": {
+        "runtime": {
+          "Story_Method_Practice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Story_Method_Practice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

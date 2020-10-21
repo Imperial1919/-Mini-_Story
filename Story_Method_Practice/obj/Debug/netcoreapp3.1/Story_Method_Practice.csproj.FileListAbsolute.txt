@@ -1,0 +1,13 @@
+C:\Users\owner\source\repos\Story_Method_Practice\Story_Method_Practice\bin\Debug\netcoreapp3.1\Story_Method_Practice.exe
+C:\Users\owner\source\repos\Story_Method_Practice\Story_Method_Practice\bin\Debug\netcoreapp3.1\Story_Method_Practice.deps.json
+C:\Users\owner\source\repos\Story_Method_Practice\Story_Method_Practice\bin\Debug\netcoreapp3.1\Story_Method_Practice.runtimeconfig.json
+C:\Users\owner\source\repos\Story_Method_Practice\Story_Method_Practice\bin\Debug\netcoreapp3.1\Story_Method_Practice.runtimeconfig.dev.json
+C:\Users\owner\source\repos\Story_Method_Practice\Story_Method_Practice\bin\Debug\netcoreapp3.1\Story_Method_Practice.dll
+C:\Users\owner\source\repos\Story_Method_Practice\Story_Method_Practice\bin\Debug\netcoreapp3.1\Story_Method_Practice.pdb
+C:\Users\owner\source\repos\Story_Method_Practice\Story_Method_Practice\obj\Debug\netcoreapp3.1\Story_Method_Practice.csprojAssemblyReference.cache
+C:\Users\owner\source\repos\Story_Method_Practice\Story_Method_Practice\obj\Debug\netcoreapp3.1\Story_Method_Practice.AssemblyInfoInputs.cache
+C:\Users\owner\source\repos\Story_Method_Practice\Story_Method_Practice\obj\Debug\netcoreapp3.1\Story_Method_Practice.AssemblyInfo.cs
+C:\Users\owner\source\repos\Story_Method_Practice\Story_Method_Practice\obj\Debug\netcoreapp3.1\Story_Method_Practice.csproj.CoreCompileInputs.cache
+C:\Users\owner\source\repos\Story_Method_Practice\Story_Method_Practice\obj\Debug\netcoreapp3.1\Story_Method_Practice.dll
+C:\Users\owner\source\repos\Story_Method_Practice\Story_Method_Practice\obj\Debug\netcoreapp3.1\Story_Method_Practice.pdb
+C:\Users\owner\source\repos\Story_Method_Practice\Story_Method_Practice\obj\Debug\netcoreapp3.1\Story_Method_Practice.genruntimeconfig.cache
